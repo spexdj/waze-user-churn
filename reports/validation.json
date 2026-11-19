@@ -1,0 +1,14 @@
+{
+  "rows": 14999,
+  "columns": 13,
+  "duplicate_rows": 0,
+  "duplicate_ids": 0,
+  "missing_labels": 700,
+  "zero_drives_positive_km": 106,
+  "zero_driving_days_positive_km": 1024,
+  "raw_csv_sha256": "958330c5395239d55c4263e6603b60c8c673b28bbfd17ff4477a74c1449d228d",
+  "python": "3.12.14",
+  "pandas": "2.2.3",
+  "numpy": "2.3.5",
+  "matplotlib": "3.10.8"
+}

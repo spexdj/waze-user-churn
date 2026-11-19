@@ -1,0 +1,5 @@
+,km_per_drive,km_per_drive,km_per_driving_day,km_per_driving_day,drives_per_driving_day,drives_per_driving_day
+,count,median,count,median,count,median
+label,,,,,,
+churned,2522,73.49180722941176,2143,523.0867493333334,2143,7.454545454545454
+retained,11675,74.05103747058824,11173,272.62854914999997,11173,3.75

@@ -1,0 +1,14 @@
+column,dtype,meaning
+ID,int64,Sequential user identifier
+label,object,retained or churned during month; missing is unknown
+sessions,int64,Monthly app openings
+drives,int64,Monthly drives of at least 1 km
+total_sessions,float64,Modeled estimate of lifetime sessions
+n_days_after_onboarding,int64,Days since registration
+total_navigations_fav1,int64,Lifetime navigations to favorite destination 1
+total_navigations_fav2,int64,Lifetime navigations to favorite destination 2
+driven_km_drives,float64,Monthly kilometers driven
+duration_minutes_drives,float64,Monthly minutes driven
+activity_days,int64,Monthly days the app was opened
+driving_days,int64,Monthly days with driving of at least 1 km
+device,object,Android or iPhone

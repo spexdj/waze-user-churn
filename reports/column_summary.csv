@@ -1,0 +1,14 @@
+,dtype,non_null,missing,missing_pct
+ID,int64,14999,0,0.0
+label,object,14299,700,4.666977798519902
+sessions,int64,14999,0,0.0
+drives,int64,14999,0,0.0
+total_sessions,float64,14999,0,0.0
+n_days_after_onboarding,int64,14999,0,0.0
+total_navigations_fav1,int64,14999,0,0.0
+total_navigations_fav2,int64,14999,0,0.0
+driven_km_drives,float64,14999,0,0.0
+duration_minutes_drives,float64,14999,0,0.0
+activity_days,int64,14999,0,0.0
+driving_days,int64,14999,0,0.0
+device,object,14999,0,0.0

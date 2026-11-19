@@ -1,0 +1,3 @@
+label,sessions,drives,total_sessions,n_days_after_onboarding,total_navigations_fav1,total_navigations_fav2,driven_km_drives,duration_minutes_drives,activity_days,driving_days,km_per_drive,km_per_driving_day,drives_per_driving_day
+churned,59.0,50.0,164.33904205,1321.0,84.5,11.0,3652.6556659999997,1607.183785,8.0,6.0,73.49180722941176,523.0867493333334,7.454545454545454
+retained,56.0,47.0,157.5867563,1843.0,68.0,9.0,3464.684614,1458.046141,17.0,14.0,74.05103747058824,272.62854914999997,3.75
